@@ -7,8 +7,8 @@ Below are some Test Case samples I wrote while studying.
 **Test Objective**: Test the login by using correct credentials.
 
 **Steps to reproduce:**
-1. Go to site.com/login
-2. Add correct user/pass
+1. Go to www.linkedin.com
+2. Add correct username & password
 3. Observe if user can login
 
 **Expected Result**: User should be able to login
@@ -20,23 +20,23 @@ Below are some Test Case samples I wrote while studying.
 **Test Objective**: Test the login by using incorrect credentials.
 
 **Steps to reproduce:**
-1. Go to site.com/login
-2. Add incorrect user/pass
+1. Go to www.linkedin.com
+2. Add incorrect username & password
 3. Observe if user can login
 
 **Expected Result**: User should not be able to login
 
-**Test Data**: User: test & Pass: 123
+**Test Data**: User: test & Pass: 1234
 
 ---
 
 **Test Objective**: Test "Remember me" functionality by checking the box.
 
 **Steps to reproduce:**
-1. Go to site.com/login
-2. Add correct user/pass and check "Remember me" box
+1. Go to www.linkedin.com
+2. Add correct username & password and check "Remember me" box
 3. Observe if user can login
-4. After login, exit your browser, and come back again to site.com/login and check if you are still logged in 
+4. After login, exit your browser, and come back again to www.linkedin.com and check if you are still logged in 
 
 **Expected Result**: Credentials should be saved and user won't have to enter them again 
 
