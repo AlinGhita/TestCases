@@ -1,6 +1,6 @@
 # Test Case Samples 
 
-Below are some Test Case samples I wrote while studying.
+Below are some Test Case samples I wrote while studying. [Here you can access my Test Case template](https://docs.google.com/spreadsheets/d/1PXMJ9zN5OLlEiRT2pXTzPxeUIP524yQnogCH3p-wWCQ/edit#gid=0)
 
 ---
 
